@@ -1,6 +1,6 @@
 # tls-mal-detect-jupyter
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/1computerguy/tls-mal-detect-jupyter/HEAD?filepath=anomaly-detect.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/1computerguy/tls-mal-detect-jupyter/HEAD?filepath=anomaly-detect.ipynb)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Python: v3.8](https://img.shields.io/badge/Python-3.8-blue.svg)
 [![Python: Reference](https://img.shields.io/badge/Python-Reference-blue.svg)](https://docs.python.org/3.8/)
